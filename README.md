@@ -1,4 +1,4 @@
-# Example Binder with requirements.txt
+# Binderized with requirements.txt including Seaborn/Nilearn
 
 Click on the following links to run the tutorials and results preview in your browser.
-* [`test.ipynb`](http://mybinder.org/repo/rschmaelzle/nb/test.ipynb) explains the general procedure 
+* [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/rschmaelzle/notebook_binder)
